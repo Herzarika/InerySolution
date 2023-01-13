@@ -1,11 +1,14 @@
 ## Introduction
 
-To run this scripts, you will need to have node.js installed on your computer. You can download the latest version of node.js from the official website: https://nodejs.org/.
+To run this scripts, you will need to have node.js installed.
+You can download the latest version of node.js from the official website:
+
+https://nodejs.org/.
 
 You will also need to install the required dependencies for these scripts. To do this, navigate to the root directory of the project in your terminal and run the following command:
 
+```sudo apt npm install```
 
-`npm install`
 This will install the dependencies specified in the package.json file.
 
 You will also need to create a .env file in the root directory of the project. This file should contain the following environment variables:
