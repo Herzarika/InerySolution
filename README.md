@@ -11,9 +11,11 @@ This will install the dependencies specified in the package.json file.
 You will also need to create a .env file in the root directory of the project. This file should contain the following environment variables:
 
 
-```NODE_URL=<URL of your Inery node>```
-```PRIVATE_KEY=<your private key>```
-```INERY_ACCOUNT=<your Inery account name>```
+NODE_URL=<URL of your Inery node>
+
+PRIVATE_KEY=<your private key>
+
+INERY_ACCOUNT=<your Inery account name>
 
 Replace the placeholders in angle brackets with the appropriate values for your setup.
 
