@@ -27,7 +27,7 @@ Once you have set up your environment and installed the dependencies, you can ru
 ______________________
 ## Install Package
 ```
-git clone https://github.com/Herzarika/Inery-Solution.git
+git clone https://github.com/Herzarika/InerySolution.git
 ```
 ______________________
 
